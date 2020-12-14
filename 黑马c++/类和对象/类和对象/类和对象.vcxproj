@@ -128,6 +128,7 @@
     <ClCompile Include="point.cpp" />
     <ClCompile Include="this指针.cpp" />
     <ClCompile Include="初始化列表.cpp" />
+    <ClCompile Include="友元.cpp" />
     <ClCompile Include="封装.cpp" />
     <ClCompile Include="拷贝构造函数的调用时机.cpp" />
     <ClCompile Include="权限.cpp" />

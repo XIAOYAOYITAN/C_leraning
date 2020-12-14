@@ -51,6 +51,12 @@
     <ClCompile Include="this指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="const修饰对象化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
