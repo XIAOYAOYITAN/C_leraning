@@ -83,9 +83,9 @@ void test02()
 }
 
 
-int main() {
-	
-	test02();
-	system("pause");
-	return  0;
-}
+//int main() {
+//	
+//	test02();
+//	system("pause");
+//	return  0;
+//}

@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="++运算符重载.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="const修饰对象化.cpp" />
     <ClCompile Include="point.cpp" />
@@ -130,12 +131,16 @@
     <ClCompile Include="初始化列表.cpp" />
     <ClCompile Include="友元.cpp" />
     <ClCompile Include="封装.cpp" />
+    <ClCompile Include="左移运算符重载.cpp" />
     <ClCompile Include="拷贝构造函数的调用时机.cpp" />
     <ClCompile Include="权限.cpp" />
     <ClCompile Include="构造函数和析构函数.cpp" />
     <ClCompile Include="构造函数的分类及调用.cpp" />
+    <ClCompile Include="模板.cpp" />
     <ClCompile Include="深拷贝与浅拷贝.cpp" />
     <ClCompile Include="点和圆的关系问题.cpp" />
+    <ClCompile Include="赋值运算符重载.cpp" />
+    <ClCompile Include="运算符重载.cpp" />
     <ClCompile Include="静态成员与静态成员函数.cpp" />
   </ItemGroup>
   <ItemGroup>
