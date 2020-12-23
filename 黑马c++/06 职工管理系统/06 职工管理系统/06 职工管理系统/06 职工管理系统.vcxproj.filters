@@ -15,36 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04 使用多态写一个计算器.cpp">
+    <ClCompile Include="workerManager.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03 多态的基本语法.cpp">
+    <ClCompile Include="职工管理系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02 同名成员函数处理.cpp">
+    <ClCompile Include="employee.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="01 模板.cpp">
+    <ClCompile Include="manager.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="05 制作饮品.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06 虚析构和纯虚析构.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="07 计算机组装.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="09 读写二进制文件.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08 读写文件.cpp">
+    <ClCompile Include="boss.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="写文件.h">
+    <ClInclude Include="workerManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="worker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
