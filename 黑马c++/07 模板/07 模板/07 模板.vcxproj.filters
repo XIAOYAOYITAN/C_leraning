@@ -15,37 +15,29 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="职工管理系统.cpp">
+    <ClCompile Include="01 模板基本.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="workerManger.cpp">
+    <ClCompile Include="02 冒泡排序 模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="employee.cpp">
+    <ClCompile Include="03 函数模板的调用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="manager.cpp">
+    <ClCompile Include="04 模板不是万能的.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="boss.cpp">
+    <ClCompile Include="05 类模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="workerManager.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="worker.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="employee.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="manager.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="boss.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="06 类模板中成员函数的创建时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 类模板做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 类模板与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

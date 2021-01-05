@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{4746B200-E097-444C-AB76-3C1B6B59A1E9}</ProjectGuid>
-    <RootNamespace>基于多态的职工管理系统</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectGuid>{6F63E369-C4B7-45D0-80AC-B7430D6EDC46}</ProjectGuid>
+    <RootNamespace>My07模板</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -77,6 +77,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -85,6 +88,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
@@ -96,6 +102,7 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
+      <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
@@ -110,23 +117,20 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
+      <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="boss.cpp" />
-    <ClCompile Include="employee.cpp" />
-    <ClCompile Include="manager.cpp" />
-    <ClCompile Include="workerManger.cpp" />
-    <ClCompile Include="职工管理系统.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="boss.h" />
-    <ClInclude Include="employee.h" />
-    <ClInclude Include="manager.h" />
-    <ClInclude Include="worker.h" />
-    <ClInclude Include="workerManager.h" />
+    <ClCompile Include="01 模板基本.cpp" />
+    <ClCompile Include="02 冒泡排序 模板.cpp" />
+    <ClCompile Include="03 函数模板的调用.cpp" />
+    <ClCompile Include="04 模板不是万能的.cpp" />
+    <ClCompile Include="05 类模板.cpp" />
+    <ClCompile Include="06 类模板中成员函数的创建时机.cpp" />
+    <ClCompile Include="07 类模板做函数参数.cpp" />
+    <ClCompile Include="08 类模板与继承.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
