@@ -39,5 +39,22 @@
     <ClCompile Include="08 类模板与继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09 类模板中成员函数的类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10 类模板和全局函数友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
