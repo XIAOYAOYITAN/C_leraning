@@ -39,5 +39,17 @@
     <ClCompile Include="07 访问、插入删除、子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08 vector容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 deque容器案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10 list 容器排序案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set容器排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

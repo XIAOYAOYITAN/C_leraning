@@ -131,6 +131,10 @@
     <ClCompile Include="05 string 赋值.cpp" />
     <ClCompile Include="06 str 拼接.cpp" />
     <ClCompile Include="07 访问、插入删除、子串.cpp" />
+    <ClCompile Include="08 vector容器.cpp" />
+    <ClCompile Include="09 deque容器案例.cpp" />
+    <ClCompile Include="10 list 容器排序案例.cpp" />
+    <ClCompile Include="set容器排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
