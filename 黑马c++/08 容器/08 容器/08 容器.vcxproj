@@ -134,7 +134,8 @@
     <ClCompile Include="08 vector容器.cpp" />
     <ClCompile Include="09 deque容器案例.cpp" />
     <ClCompile Include="10 list 容器排序案例.cpp" />
-    <ClCompile Include="set容器排序.cpp" />
+    <ClCompile Include="11 set容器排序.cpp" />
+    <ClCompile Include="12 map容器.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

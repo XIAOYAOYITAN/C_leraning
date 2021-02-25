@@ -48,7 +48,10 @@
     <ClCompile Include="10 list 容器排序案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="set容器排序.cpp">
+    <ClCompile Include="11 set容器排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12 map容器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
