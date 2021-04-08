@@ -131,6 +131,7 @@
     <ClCompile Include="21 合并两个有序链表.cpp" />
     <ClCompile Include="3. 无重复字符串的最长子串.cpp" />
     <ClCompile Include="303 区域与检索-数组不可变.cpp" />
+    <ClCompile Include="33. 搜索旋转排序数组.cpp" />
     <ClCompile Include="338. 比特位计数.cpp" />
     <ClCompile Include="354.俄罗斯套娃信封问题.cpp" />
     <ClCompile Include="456 123模式.cpp" />

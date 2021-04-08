@@ -72,5 +72,8 @@
     <ClCompile Include="80. 删除有序数组中的重复项 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33. 搜索旋转排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
