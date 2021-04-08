@@ -124,16 +124,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0. 模板.cpp" />
     <ClCompile Include="1006 笨阶乘.cpp" />
     <ClCompile Include="104二叉树的最大深度.cpp" />
     <ClCompile Include="12.21.直方图的水量 .cpp" />
     <ClCompile Include="21 合并两个有序链表.cpp" />
+    <ClCompile Include="3. 无重复字符串的最长子串.cpp" />
     <ClCompile Include="303 区域与检索-数组不可变.cpp" />
     <ClCompile Include="338. 比特位计数.cpp" />
     <ClCompile Include="354.俄罗斯套娃信封问题.cpp" />
     <ClCompile Include="456 123模式.cpp" />
+    <ClCompile Include="781. 森林中的兔子.cpp" />
+    <ClCompile Include="80. 删除有序数组中的重复项 II.cpp" />
     <ClCompile Include="83 删除链表中的重复数字.cpp" />
+    <ClCompile Include="88. 合并两个有序数组.cpp" />
     <ClCompile Include="896 单调数列.cpp" />
+    <ClCompile Include="26. 删除有序数组中的重复项.cpp" />
     <ClCompile Include="剑指offer 03.cpp" />
     <ClCompile Include="74. 搜索二维矩阵.cpp" />
     <ClCompile Include="91. 子集1.cpp" />
