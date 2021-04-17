@@ -75,5 +75,20 @@
     <ClCompile Include="33. 搜索旋转排序数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="81. 搜索旋转排序数组2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79.单词搜索.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="263 丑数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="213. 打家劫舍2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198. 打家劫舍1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
