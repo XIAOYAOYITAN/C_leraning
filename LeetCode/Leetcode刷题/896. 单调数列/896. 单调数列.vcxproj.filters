@@ -84,10 +84,52 @@
     <ClCompile Include="263 丑数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="213. 打家劫舍2.cpp">
+    <ClCompile Include="198. 打家劫舍1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="198. 打家劫舍1.cpp">
+    <ClCompile Include="27.移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28. 实现strstr().cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91 解码方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="363. 矩形区域不超过K的最大数值和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1. 两数之和plus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="368. 最大整除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300. 最长递增子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="377. 组合总和家族.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 寻找两个正序数列的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="897 递增顺序搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101 对称二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1011 在D天内送达包裹的能力.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1190 反转每队括号间的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45. 跳跃游戏II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

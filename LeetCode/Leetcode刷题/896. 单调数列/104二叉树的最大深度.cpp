@@ -1,51 +1,51 @@
 ///**
-// * Definition for a binary tree node.
-// * struct TreeNode {
+// * definition for a binary tree node.
+// * struct treenode {
 // *     int val;
-// *     TreeNode *left;
-// *     TreeNode *right;
-// *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
-// *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-// *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+// *     treenode *left;
+// *     treenode *right;
+// *     treenode() : val(0), left(nullptr), right(nullptr) {}
+// *     treenode(int x) : val(x), left(nullptr), right(nullptr) {}
+// *     treenode(int x, treenode *left, treenode *right) : val(x), left(left), right(right) {}
 // * };
 // */
 //#include <iostream>
 //#include <queue>
 // using namespace std;
 //
-// struct TreeNode {
+// struct treenode {
 // int val;
-// TreeNode *left;
-// TreeNode *right;
-// TreeNode() : val(0), left(nullptr), right(nullptr) {}
-// TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-// TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+// treenode *left;
+// treenode *right;
+// treenode() : val(0), left(nullptr), right(nullptr) {}
+// treenode(int x) : val(x), left(nullptr), right(nullptr) {}
+// treenode(int x, treenode *left, treenode *right) : val(x), left(left), right(right) {}
 // 
 // };
 //
-// class Solution {
+// class solution {
 // public:
-//	 int maxDepth(TreeNode* root) {
+//	 int maxdepth(treenode* root) {
 //		 int count = 0;
-//		 queue<TreeNode *> Q;
+//		 queue<treenode *> q;
 //		 count++;
-//		 Q.push(root);
-//		 while (!Q.empty()) {
-//			 TreeNode*  tree_tmp = Q.back();
-//			 Q.pop();
+//		 q.push(root);
+//		 while (!q.empty()) {
+//			 treenode*  tree_tmp = q.back();
+//			 q.pop();
 //			 while(tree_tmp->left!=nullptr||tree_tmp->right!=nullptr) {
 //				 count++;
 //				 if(tree_tmp->left != nullptr)
-//				 Q.push(tree_tmp->left);
+//				 q.push(tree_tmp->left);
 //				 if(tree_tmp->right!=nullptr)
-//				 Q.push(tree_tmp->right);
+//				 q.push(tree_tmp->right);
 //			 }
 //		 }
 //	 }
 // };
 //
 // int main() {
-//	 TreeNode* root;
+//	 treenode* root;
 //
 // 
 //	 system("pause");
