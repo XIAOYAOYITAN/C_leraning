@@ -132,5 +132,143 @@
     <ClCompile Include="45. 跳跃游戏II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="938 二叉搜索树的范围和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69. x的平方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1351 统计有序矩阵中的负数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="633. 平均数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="403.青蛙过河.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137. 只出现一次的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206. 反转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="690 员工的重要性.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="301 删除无效的括号 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114.二叉树展开为链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105. 从前序遍历和中序遍历中构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108. 将有序数组转换为二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="554.砖墙.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="461 汉明距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617 合并二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="538. 把二叉搜索树转换为累加树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116. 填充每个节点的下一个右侧结点指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617. 合并二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203. 移除链表中的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="344. 反转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226. 翻转一棵二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 括号生成.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7. 整数反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="155.最小栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1473.[hard] 粉刷房子iii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="740 删除并获得点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1720. 解码异或后的数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1486.数组亦或操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1723. 完成所有工作的最短时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="872. 叶子相似的树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1482. 制作m束话所需的最少天数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1734. 解码亦或后的排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1310.子数组异或查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94. 二叉树的中序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1269停在原地的方案数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12. 整数转罗马数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1442. 形成两个异或相等数组的三元组数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1738. 找出第K大的异或坐标值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="692.前K个高频单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="810 黑板异或游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="877.石子游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="486. 预测赢家.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1707.与数组中元素的最大异或值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="208. 实现Trie(前缀树）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="664. 奇怪的打印机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1787. 使所有区间的异或结果为0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
