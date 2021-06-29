@@ -71,3 +71,22 @@
 //	}
 //	return root;
 //}
+
+//用数组产生一个链表
+//Definition for singly-linked list.
+//struct ListNode {
+//	int val;
+//	ListNode *next;
+//	ListNode(int x) : val(x), next(NULL) {}
+//};
+
+//ListNode * createList(vector<int> nums) {
+//	ListNode *head = new ListNode(nums[0]);
+//	ListNode *cur = head;
+//	for (int i = 1; i < nums.size(); i++) {
+//		ListNode *nextnode = new ListNode(nums[i]);
+//		cur->next = nextnode;
+//		cur = cur->next;
+//	}
+//	return head;
+//}

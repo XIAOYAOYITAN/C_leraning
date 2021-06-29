@@ -270,5 +270,92 @@
     <ClCompile Include="1787. 使所有区间的异或结果为0.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1035. 不相交的线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="477. 汉明距离总和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1074. 元素和为目标值的子矩阵数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="304 二维矩阵和--矩阵不可变 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="560. 和为K的数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="213. 2的幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="342. 4的幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="523. 连续的子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="525. 连续数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160. 相交链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer24. 反转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="474. 一和零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="494. 目标和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1046. 最后一块石头的重量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="879. 盈利计划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="518. 零钱兑换2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="860. 柠檬水找零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="322. 零钱兑换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="279. 完全平方数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="278. 第一个错误的版本.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1449. 数位成本和为目标值的最大数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="374. 猜数字大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="852. 山脉数组的峰顶索引.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65. 有效数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1239. 串联字符串的最大长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1600. 皇位继承顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="401. 二进制手表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer 38 字符串的排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

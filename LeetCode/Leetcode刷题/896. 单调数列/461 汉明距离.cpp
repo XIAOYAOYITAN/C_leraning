@@ -21,7 +21,7 @@
 //
 //3. 归类：
 //
-//4. 解题要点
+//4. 解题要点:
 //
 //**********************************************************************/
 //
@@ -32,25 +32,56 @@
 //#include <algorithm>
 //#include <stack>
 //#include <map>
+//#include <numeric>
 //using namespace std;
 //
 ///*************************实现函数*****************************/
+//////solution1，自己的简单实现
+//////分别检查x和y的每一个二进制位
+////class Solution {
+////public:
+////	int hammingDistance(int x, int y) {
+////		int count = 0;
+////		while (1)
+////		{
+////			if (x == 0 && y == 0) break;
+////			if (x % 2 != y % 2) {
+////				count++;
+////			}
+////			x /= 2;
+////			y /= 2;
+////		}
+////		return count;
+////	}
+////};
+//
+////class Solution {
+////public:
+////	int hammingDistance(int x, int y) {
+////		int tmp = x ^ y;//xy不相同的二进制位，在异或后为1
+////		int count = 0;
+////		while (tmp!= 0) {
+////			if (tmp % 2 == 1) count++;
+////			tmp = tmp >> 1;
+////		}
+////		return count;
+////	}
+////};
+//
+////Brian Kernighan 算法, 一个数删去二进制表示最右侧的1的结果 = x & （x - 1）
 //class Solution {
 //public:
 //	int hammingDistance(int x, int y) {
+//		int tmp = x ^ y;
 //		int count = 0;
-//		while (1)
-//		{
-//			if (x == 0 && y == 0) break;
-//			if (x % 2 != y % 2) {
-//				count++;
-//			}
-//			x /= 2;
-//			y /= 2;
+//		while (tmp != 0) {
+//			tmp = tmp & (tmp - 1);
+//			count++;
 //		}
 //		return count;
 //	}
 //};
+//
 ///*************************main函数 输入输出*****************************/
 //int main() {
 //	int x = 1;

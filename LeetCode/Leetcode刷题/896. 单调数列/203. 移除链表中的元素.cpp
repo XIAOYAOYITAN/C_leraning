@@ -53,30 +53,56 @@
 //}
 //
 //
-// //链表可以增加一个哨兵节点，避免头结点和的判断不一致
+//// //链表可以增加一个哨兵节点，避免头结点和的判断不一致
+////class Solution {
+////public:
+////	ListNode* removeElements(ListNode* head, int val) {
+////		if (!head) return nullptr;
+////		ListNode *guard = new ListNode(0);
+////		guard->next = head;
+////		delete1(head, guard, val);
+////		return guard->next;
+////	}
+////	//递归解法：判断一个当前节点是否是需要删除的，然后往后递归
+////	void delete1(ListNode* curr, ListNode* previous, int node)
+////	{
+////		if (!curr) return;
+////		if (curr->val == node) {
+////			previous->next = curr->next;
+////			curr = curr->next;
+////			delete1(curr, previous, node);
+////		}
+////		else
+////		{
+////			previous = previous->next;
+////			curr = curr->next;
+////			delete1(curr, previous, node);
+////		}		
+////	}
+////};
+//
+////迭代解法
 //class Solution {
 //public:
 //	ListNode* removeElements(ListNode* head, int val) {
 //		if (!head) return nullptr;
 //		ListNode *guard = new ListNode(0);
-//		guard->next = head;
-//		delete1(head, guard, val);
-//		return guard->next;
-//	}
-//	void delete1(ListNode* curr, ListNode* previous, int node)
-//	{
-//		if (!curr) return;
-//		if (curr->val == node) {
-//			previous->next = curr->next;
-//			curr = curr->next;
-//			delete1(curr, previous, node);
-//		}
-//		else
+//		ListNode *prev = guard;
+//		prev->next = head;
+//		ListNode *curr = head;
+//		while (curr!=nullptr)
 //		{
-//			previous = previous->next;
-//			curr = curr->next;
-//			delete1(curr, previous, node);
-//		}		
+//			if (curr->val == val) {
+//				prev->next = curr->next;
+//				curr = curr->next;
+//			}
+//			else
+//			{
+//				curr = curr->next;
+//				prev = prev->next;
+//			}
+//		}
+//		return guard->next;
 //	}
 //};
 ///*************************main函数 输入输出*****************************/
