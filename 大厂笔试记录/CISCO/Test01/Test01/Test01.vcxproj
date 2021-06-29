@@ -20,37 +20,36 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B0E95664-C496-4865-813E-1AFA46344F50}</ProjectGuid>
-    <RootNamespace>My896单调数列</RootNamespace>
+    <ProjectGuid>{0B78CA0F-58B7-46FC-8B92-C13A9EE1A95C}</ProjectGuid>
+    <RootNamespace>Test01</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>链表</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
-    <CharacterSet>Unicode</CharacterSet>
+    <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
-    <CharacterSet>Unicode</CharacterSet>
+    <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
-    <CharacterSet>Unicode</CharacterSet>
+    <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
-    <CharacterSet>Unicode</CharacterSet>
+    <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -124,25 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="0. 模板.cpp" />
-    <ClCompile Include="1006 笨阶乘.cpp" />
-    <ClCompile Include="104二叉树的最大深度.cpp" />
-    <ClCompile Include="12.21.直方图的水量 .cpp" />
-    <ClCompile Include="21 合并两个有序链表.cpp" />
-    <ClCompile Include="3. 无重复字符串的最长子串.cpp" />
-    <ClCompile Include="303 区域与检索-数组不可变.cpp" />
-    <ClCompile Include="338. 比特位计数.cpp" />
-    <ClCompile Include="354.俄罗斯套娃信封问题.cpp" />
-    <ClCompile Include="456 123模式.cpp" />
-    <ClCompile Include="781. 森林中的兔子.cpp" />
-    <ClCompile Include="80. 删除有序数组中的重复项 II.cpp" />
-    <ClCompile Include="83 删除链表中的重复数字.cpp" />
-    <ClCompile Include="88. 合并两个有序数组.cpp" />
-    <ClCompile Include="896 单调数列.cpp" />
-    <ClCompile Include="26. 删除有序数组中的重复项.cpp" />
-    <ClCompile Include="剑指offer 03.cpp" />
-    <ClCompile Include="74. 搜索二维矩阵.cpp" />
-    <ClCompile Include="91. 子集1.cpp" />
+    <ClCompile Include="0 模板.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
