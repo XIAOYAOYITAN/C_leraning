@@ -153,6 +153,7 @@
     <ClCompile Include="155.最小栈.cpp" />
     <ClCompile Include="160. 相交链表.cpp" />
     <ClCompile Include="1600. 皇位继承顺序.cpp" />
+    <ClCompile Include="169. excle 符号表.cpp" />
     <ClCompile Include="1707.与数组中元素的最大异或值.cpp" />
     <ClCompile Include="1720. 解码异或后的数组.cpp" />
     <ClCompile Include="1723. 完成所有工作的最短时间.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="1738. 找出第K大的异或坐标值.cpp" />
     <ClCompile Include="1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗 .cpp" />
     <ClCompile Include="1787. 使所有区间的异或结果为0.cpp" />
+    <ClCompile Include="1833. 雪糕的最大数量.cpp" />
     <ClCompile Include="198. 打家劫舍1.cpp" />
     <ClCompile Include="206. 反转链表.cpp" />
     <ClCompile Include="208. 实现Trie(前缀树）.cpp" />
@@ -195,6 +197,7 @@
     <ClCompile Include="461 汉明距离.cpp" />
     <ClCompile Include="474. 一和零.cpp" />
     <ClCompile Include="477. 汉明距离总和.cpp" />
+    <ClCompile Include="481. 根据字符的出现频率排序.cpp" />
     <ClCompile Include="486. 预测赢家.cpp" />
     <ClCompile Include="494. 目标和.cpp" />
     <ClCompile Include="5. 最长回文子串.cpp" />
@@ -232,12 +235,14 @@
     <ClCompile Include="91 解码方法.cpp" />
     <ClCompile Include="938 二叉搜索树的范围和.cpp" />
     <ClCompile Include="94. 二叉树的中序遍历.cpp" />
+    <ClCompile Include="LCP 07. 传递信息.cpp" />
     <ClCompile Include="剑指offer 03.cpp" />
     <ClCompile Include="74. 搜索二维矩阵.cpp" />
     <ClCompile Include="91. 子集1.cpp" />
     <ClCompile Include="4. 寻找两个正序数列的中位数.cpp" />
     <ClCompile Include="剑指offer 38 字符串的排列.cpp" />
     <ClCompile Include="剑指offer24. 反转链表.cpp" />
+    <ClCompile Include="剑指offer37 序列化二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

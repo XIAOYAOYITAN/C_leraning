@@ -357,5 +357,20 @@
     <ClCompile Include="剑指offer 38 字符串的排列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="169. excle 符号表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer37 序列化二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LCP 07. 传递信息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1833. 雪糕的最大数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="481. 根据字符的出现频率排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
